@@ -1,4 +1,4 @@
-# 🚀 Basic React
+#  Basic React
 
 This project is the first milestone in my **React.js Learning Journey**. It focuses on understanding the core building blocks of React and developing a strong foundation for building modern, component-based web applications.
 
@@ -6,7 +6,7 @@ The project includes hands-on implementations of React fundamentals, covering co
 
 ---
 
-## 📖 Learning Objectives
+##  Learning Objectives
 
 - Understand React's component-based architecture.
 - Build reusable and modular UI components.
@@ -18,7 +18,7 @@ The project includes hands-on implementations of React fundamentals, covering co
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 | Topic | Description |
 |-------|-------------|
@@ -51,7 +51,7 @@ The project includes hands-on implementations of React fundamentals, covering co
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Basic-React/
@@ -72,7 +72,7 @@ Basic-React/
 
 ---
 
-## 🎯 Key Takeaways
+##  Key Takeaways
 
 - Developed an understanding of React's component-based architecture.
 - Built reusable and modular UI components.
@@ -85,7 +85,7 @@ Basic-React/
 
 ---
 
-## 🚀 Next Learning Goals
+##  Next Learning Goals
 
 The following topics will be covered in the upcoming modules of this repository:
 
@@ -101,13 +101,6 @@ The following topics will be covered in the upcoming modules of this repository:
 - Performance Optimization
 - Mini React Projects
 
----
-
-## 👩‍💻 Author
-
-**Priti Bhardwaj**
 
 
 
-This project is part of my **React Learning Journey**, where I document concepts, practice implementations, and projects while learning React from the ground up.
->>>>>>> 4af12972adad10a04962e3c813906bbaadcdd060
