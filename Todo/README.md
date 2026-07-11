@@ -112,8 +112,8 @@ Through this project, I gained practical experience with:
 
 ## 📸 Preview
 
-![Todo App](Screenshot 2026-07-11 171333.png)
-![Todo App](Screenshot 2026-07-11 171634.png)
+![Todo App](Todo/Screenshot 2026-07-11 171333.png)
+
 
 
 This project is a part of my **React Learning Journey**, where I build mini projects to strengthen my understanding of React fundamentals.
