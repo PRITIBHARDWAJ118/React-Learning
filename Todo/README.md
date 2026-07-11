@@ -112,18 +112,8 @@ Through this project, I gained practical experience with:
 
 ## 📸 Preview
 
-> .
+>Screenshot 2026-07-11 171333.png
+>Screenshot 2026-07-11 171634.png
 
-Example:
-
-```
-assets/todo-app.png
-```
-
----
-
-## 👩‍💻 Author
-
-**Priti Bhardwaj**
 
 This project is a part of my **React Learning Journey**, where I build mini projects to strengthen my understanding of React fundamentals.
